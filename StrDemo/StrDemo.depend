@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1446624942 source:c:\users\kirill\desktop\sys_programming\strdemo\main.cpp
+	<iostream>
+	"string.hpp"
+
+1446624767 c:\users\kirill\desktop\sys_programming\strdemo\string.hpp
+	<iostream>
+	<cstring>
+
+1446624824 source:c:\users\kirill\desktop\sys_programming\strdemo\string.cpp
+	"string.hpp"
+	<cstring>
+
+1446018933 source:c:\users\kirill\desktop\sys_programming\strdemo\src\friendclass1.cpp
+	"FriendClass1.h"
+
+1446018927 c:\users\kirill\desktop\sys_programming\strdemo\include\friendclass1.h
+	<iostream>
+	"..\string.hpp"
+
